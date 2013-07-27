@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- General Application Strings -->
+    <string name="app_name">Jokester</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+	<!-- Main Screen Strings -->
+	<string name="mainButtonProfile">Profile</string>
+	<string name="mainButtonPost">Post</string>
+	<string name="mainButtonFavorites">Favorites</string>
+    
+    <!-- Joke Screen Strings -->
+	<string name="jokeTextJokester">Jokester</string>
+	<string name="jokeTextJoke">Why did the chicken cross the road? To get to the other side!</string>
+	<string name="jokeButtonGoodJoke">Good Joke</string>
+	<string name="jokeButtonRandomJoke">Random Joke</string>
+	<string name="jokeButtonBadJoke">Bad Joke</string>
+	
+	<!-- Post Screen Strings -->
+	<string name="postTextName">Name: </string>
+	<string name="postButtonPost">Post</string>
+	
+	<!-- Profile Screen Strings -->
+	<string name="profileTextName">Welcome, </string>
+	<string name="profileTextJokes">Jokes: </string>
+	<string name="profileTextReputation">Reputation: </string>
+	
+	<!-- Favorites Screen Strings -->
+	<string name="favoritesTextTitle">Favorites</string>
+	
+</resources>
